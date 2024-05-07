@@ -1,0 +1,14 @@
+C:\PRAVAT\PROJECT\DOTNET\RobotTable\RoboTable\RoboTable\bin\Debug\net8.0\RoboTable.exe
+C:\PRAVAT\PROJECT\DOTNET\RobotTable\RoboTable\RoboTable\bin\Debug\net8.0\RoboTable.deps.json
+C:\PRAVAT\PROJECT\DOTNET\RobotTable\RoboTable\RoboTable\bin\Debug\net8.0\RoboTable.runtimeconfig.json
+C:\PRAVAT\PROJECT\DOTNET\RobotTable\RoboTable\RoboTable\bin\Debug\net8.0\RoboTable.dll
+C:\PRAVAT\PROJECT\DOTNET\RobotTable\RoboTable\RoboTable\bin\Debug\net8.0\RoboTable.pdb
+C:\PRAVAT\PROJECT\DOTNET\RobotTable\RoboTable\RoboTable\obj\Debug\net8.0\RoboTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRAVAT\PROJECT\DOTNET\RobotTable\RoboTable\RoboTable\obj\Debug\net8.0\RoboTable.AssemblyInfoInputs.cache
+C:\PRAVAT\PROJECT\DOTNET\RobotTable\RoboTable\RoboTable\obj\Debug\net8.0\RoboTable.AssemblyInfo.cs
+C:\PRAVAT\PROJECT\DOTNET\RobotTable\RoboTable\RoboTable\obj\Debug\net8.0\RoboTable.csproj.CoreCompileInputs.cache
+C:\PRAVAT\PROJECT\DOTNET\RobotTable\RoboTable\RoboTable\obj\Debug\net8.0\RoboTable.dll
+C:\PRAVAT\PROJECT\DOTNET\RobotTable\RoboTable\RoboTable\obj\Debug\net8.0\refint\RoboTable.dll
+C:\PRAVAT\PROJECT\DOTNET\RobotTable\RoboTable\RoboTable\obj\Debug\net8.0\RoboTable.pdb
+C:\PRAVAT\PROJECT\DOTNET\RobotTable\RoboTable\RoboTable\obj\Debug\net8.0\RoboTable.genruntimeconfig.cache
+C:\PRAVAT\PROJECT\DOTNET\RobotTable\RoboTable\RoboTable\obj\Debug\net8.0\ref\RoboTable.dll
